@@ -1,0 +1,12 @@
+{
+  "users": [],
+  "transactions": [
+    {
+      "id": "1c75cd53-ad0f-45bf-ac39-55f94be2e71d",
+      "type": "income",
+      "category": "salary",
+      "amount": 5000,
+      "date": "2026-02-14"
+    }
+  ]
+}
